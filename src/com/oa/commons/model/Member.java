@@ -14,9 +14,9 @@ import java.sql.Timestamp;
  * 类名：Member
  * 功能：session中存储用户信息model
  * 详细：保存用户常用信息 放入session
- * 作者：LiuJincheng
+ * 作者：WangPeng
  * 版本：1.0
- * 日期：2013-4-1 上午9:31:14
+ * 日期：2016-4-1 上午9:31:14
  *
  */
 

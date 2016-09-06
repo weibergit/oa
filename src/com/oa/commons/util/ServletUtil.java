@@ -33,9 +33,9 @@ import com.oa.manager.system.service.IRoleService;
  * 类名：ServletUtil
  * 功能：Servlet工具类
  * 详细：获取ServletContext session，request  ApplicationContext
- * 作者：LiuJincheng
+ * 作者：WangPeng
  * 版本：1.0
- * 日期：2013-5-13 下午3:27:40
+ * 日期：2016-5-13 下午3:27:40
  *
  */
 public class ServletUtil implements ServletContextAware{

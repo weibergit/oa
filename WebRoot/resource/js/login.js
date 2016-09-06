@@ -148,7 +148,7 @@ function loginSystem(name,password,yzm){
 }
 function checkBrowser(){
 	initBrowserInfo();
-	if(BrowserVersion.ie&&BrowserVersion.ie<8){
+	if(BrowserVersion.ie&&BrowserVersion.ie<7){
 		
 		$.dialog( {
 			id:1,

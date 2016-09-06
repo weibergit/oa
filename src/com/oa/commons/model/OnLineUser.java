@@ -14,9 +14,9 @@ import java.util.Map;
  * 类名：OnLineUser
  * 功能：全局变量存储用户在线基本信息
  * 详细：用户在线统计
- * 作者：LiuJincheng
+ * 作者：WangPeng
  * 版本：1.0
- * 日期：2013-4-10 下午5:10:10
+ * 日期：2016-4-10 下午5:10:10
  *
  */
 public class OnLineUser implements java.io.Serializable{

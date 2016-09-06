@@ -36,7 +36,7 @@
 			<img src="resource/images/login/images/logo.png" style="margin-left: 50px;"/>
 			<div class="welcome">&nbsp; </div>
 			<div class="loginBar">
-				<div id="divcenter_login" >
+				<div id="divcenter_login" > 
 					<div class="fieldWrap" >
 						<div class="lable" >用户名：</div>
 						<div class="inputWrap">
@@ -46,7 +46,7 @@
 					<div class="fieldWrap" >
 						<div class="lable">密码：</div>
 						<div class="inputWrap">
-							<input type="password"  id="pwd" class="inputText"  value="123456">
+							<input type="password"  id="pwd" class="inputText" >
 						</div>
 					</div>
 					
@@ -77,7 +77,7 @@
 			</div>
 		</div>
 		<div class="copyright">
-			<div class="center">Copyright &copy; 2013-2014  <a href="<fmt:message key="app.name.url" bundle="${commonBundle}"/>" target="_blank" ><fmt:message key="app.name" bundle="${commonBundle}"/></a></div>
+			<div class="center">Copyright &copy; 2016-2017  <a href="<fmt:message key="app.name.url" bundle="${commonBundle}"/>" target="_blank" ><fmt:message key="app.name" bundle="${commonBundle}"/></a></div>
 		</div>
 	</div>
 	

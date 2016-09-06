@@ -46,9 +46,9 @@ import com.oa.manager.system.service.ILoginService;
  * 类名：LoginAction
  * 功能：登录模块
  * 详细：用户登录
- * 作者：LiuJincheng
+ * 作者：WangPeng
  * 版本：1.0
- * 日期：2013-4-1 下午3:16:19
+ * 日期：2016-4-1 下午3:16:19
  *
  */
 @Controller
@@ -73,6 +73,7 @@ public class LoginAction extends BaseAction{
 			OnLineUser om=usersMap.get(me.getId());
 			if(om!=null){
 				Map<String,LoginInfo> loginInfos=om.getLoginInfos();
+				//containsKeyboolean containsKey(Object key)如果此映射包含指定键的映射关系，则返回 true
 				if(loginInfos.containsKey(session.getId())){
 					//用户已经登陆
 					return "has_login";
