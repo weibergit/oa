@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author LiuJincheng
+ * @author WangPeng
  * 数据库操作封装 接口
  * 
  */

@@ -29,9 +29,9 @@ import com.oa.commons.util.ServletUtil;
  * 类名：BaseConfig
  * 功能：基本配置文件加载
  * 详细：
- * 作者：LiuJincheng
+ * 作者：WangPeng
  * 版本：1.0
- * 日期：2013-3-28 下午3:20:50
+ * 日期：2016-3-28 下午3:20:50
  *
  */
 

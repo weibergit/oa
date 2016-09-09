@@ -26,9 +26,9 @@ import com.oa.commons.exception.MyRuntimeException;
  * 类名：DateUtil
  * 功能：时间格式化
  * 详细：
- * 作者：LiuJincheng
+ * 作者：WangPeng
  * 版本：1.0
- * 日期：2013-4-12 下午1:55:18
+ * 日期：2016-4-12 下午1:55:18
  *
  */
 public class DateUtil {

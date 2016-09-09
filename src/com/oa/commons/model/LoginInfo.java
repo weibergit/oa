@@ -9,7 +9,7 @@ import java.sql.Timestamp;
 
 /**
  * 用户登录时的信息
- * @author	LiuJincheng
+ * @author	WangPeng
  * @version	 1.0
  *
  */

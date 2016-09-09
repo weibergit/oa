@@ -18,9 +18,9 @@ import com.oa.manager.system.bean.SyUsers;
  * 类名：IMainService
  * 功能：
  * 详细：
- * 作者：LiuJincheng
+ * 作者：WangPeng
  * 版本：1.0
- * 日期：2013-5-3 下午4:08:14
+ * 日期：2016-5-3 下午4:08:14
  *
  */
 public interface IMainService extends IBaseService{

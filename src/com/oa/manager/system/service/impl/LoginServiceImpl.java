@@ -47,9 +47,9 @@ import com.oa.manager.system.service.ILoginService;
  * 类名：LoginServiceImpl
  * 功能：
  * 详细：
- * 作者：LiuJincheng
+ * 作者：WangPeng
  * 版本：1.0
- * 日期：2013-4-1 下午3:23:32
+ * 日期：2016-4-1 下午3:23:32
  *
  */
 

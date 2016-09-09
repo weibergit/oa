@@ -38,9 +38,9 @@ import com.oa.commons.model.RSAPublicKeyModel;
  * 详细：与js加密配合，需导入bouncycastle.jar,
  * 		加密中文时，js先用encodeURIComponent()进行中文转码，然后再加密，
  * 		java解密之后再用URLDecoder.decode(text, "utf-8")进行 解码
- * 作者：LiuJincheng
+ * 作者：wangpeng
  * 版本：1.0
- * 日期：2013-7-31 上午9:07:34
+ * 日期：2016-7-31 上午9:07:34
  *
  */
 public class RSAUtils {

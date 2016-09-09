@@ -1,10 +1,3 @@
-/**  
- * @Project: jxoa
- * @Title: MsgConfig.java
- * @Package com.oa.commons.base
- * @date 2013-4-1 上午9:46:54
- * @Copyright: 2013 
- */
 package com.oa.commons.config;
 
 /**

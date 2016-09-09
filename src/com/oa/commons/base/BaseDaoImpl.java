@@ -14,7 +14,7 @@ import org.springframework.stereotype.Repository;
 
 
 /** 
- * @author LiuJincheng
+ * @author WangPeng
  * 数据库操作封装基类 
  * 封装了HibernateTemplate 一些繁琐操作
  * 快速开发可只需要这一个dao service直接调用此dao传sql语句

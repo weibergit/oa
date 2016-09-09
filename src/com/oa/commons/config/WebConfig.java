@@ -12,9 +12,9 @@ package com.oa.commons.config;
  * 类名：WebConfig
  * 功能：系统配置文件对应javaBean
  * 详细：
- * 作者：LiuJincheng
+ * 作者：WangPeng
  * 版本：1.0
- * 日期：2013-6-25 下午4:36:23
+ * 日期：2016-6-25 下午4:36:23
  *
  */
 public class WebConfig {

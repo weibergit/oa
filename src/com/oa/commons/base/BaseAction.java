@@ -1,10 +1,3 @@
-/**  
- * @Project: jxoa
- * @Title: BaseAction.java
- * @Package com.oa.commons.base
- * @date 2013-3-28 下午2:53:27
- * @Copyright: 2013 
- */
 package com.oa.commons.base;
 
 import java.util.ArrayList;
@@ -135,7 +128,7 @@ public abstract class BaseAction {
 		return ajaxDone(MsgConfig.CODE_FAIL, messageKey);
 	}
 	/**
-	 * 操作成功 使用默认提示信息
+	 * 操作失败 使用默认提示信息
 	 * @return
 	 */
 	protected String ajaxDoneError(ModelMap map) {

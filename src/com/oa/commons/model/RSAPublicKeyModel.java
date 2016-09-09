@@ -1,14 +1,14 @@
 /**  
  * @Title: RSAPublicKeyModel.java
- * @date 2013-10-12 下午2:09:22
- * @Copyright: 2013 
+ * @date 2015-10-12 下午2:09:22
+ * @Copyright: 2015 
  */
 package com.oa.commons.model;
 
 
 /**
  * RSA 公钥 
- * @author	LiuJincheng
+ * @author	WangPeng
  * @version	 1.0
  *
  */

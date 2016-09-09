@@ -47,7 +47,7 @@ import com.oa.commons.model.FileModel;
  * 类名：FileUtils
  * 功能：文件工具
  * 详细：
- * 作者：LiuJincheng
+ * 作者：WangPeng
  * 版本：1.0
  * 日期：2013-4-12 下午4:30:05
  *

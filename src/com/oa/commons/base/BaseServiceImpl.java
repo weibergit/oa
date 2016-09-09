@@ -18,7 +18,7 @@ import com.oa.manager.system.bean.SyLog;
 import com.oa.manager.system.bean.SyTableCustom;
 
 /**
- * @author LiuJincheng
+ * @author WangPeng
  * 
  * @desc	基本服务层基类 	所有的服务层都继承此基类
  *

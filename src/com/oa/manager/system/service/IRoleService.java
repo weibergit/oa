@@ -21,7 +21,7 @@ import com.oa.manager.system.bean.SyUsers;
  * 类名：IRoleService
  * 功能：
  * 详细：
- * 作者：LiuJincheng
+ * 作者：WangPeng
  * 版本：1.0
  * 日期：2013-4-28 下午2:57:40
  *

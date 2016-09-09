@@ -93,7 +93,7 @@ public class LoginAction extends BaseAction{
 		//生成加密密钥
 		String pwd=UUID.randomUUID().toString();
 		session.setAttribute("jmpw", pwd);
-		RSAPublicKeyModel publicKey = RSAUtils.getPublicKeyModel(pwd); 
+		RSAPublicKeyModel publicKey = RSAUtils.getPublicKeyModel(pwd);
 		
 		map.put(MsgConfig.STATUSCODE, MsgConfig.CODE_SUCCESS);
 		map.put("modulus",publicKey.getHexModulus());
@@ -115,7 +115,6 @@ public class LoginAction extends BaseAction{
 		if(StringUtils.isNotBlank(ps)){
 			//解密
 			String pwd=RSAUtils.decryptStringByJs(ps,password);
-			 
 			return service.updateLogin(vercode,name,URLDecoder.decode(pwd, "utf-8"),request,response);
 		}else{
 			return ajaxDoneError("msg.login.nojmcode");//加密信息获取失败，请重新
@@ -160,7 +159,7 @@ public class LoginAction extends BaseAction{
 		String pwd=UUID.randomUUID().toString();
 		session.setAttribute("unlockPwd", pwd);
 		RSAPublicKeyModel publicKey = RSAUtils.getPublicKeyModel(pwd); 
-		
+	
 		map.put(MsgConfig.STATUSCODE, MsgConfig.CODE_SUCCESS);
 		map.put("modulus",publicKey.getHexModulus());
 		map.put("exponent",publicKey.getHexPublicExponent());

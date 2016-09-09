@@ -40,7 +40,7 @@
 					<div class="fieldWrap" >
 						<div class="lable" >用户名：</div>
 						<div class="inputWrap">
-							<input type="text"  id="username" class="inputText" value="admin">
+							<input type="text"  id="username" class="inputText">
 						</div>
 					</div>
 					<div class="fieldWrap" >
@@ -63,7 +63,7 @@
 					--%> 
 					<div id="loginBtnWrap" class="fieldWrap">
 					  
-					  <a id="loginBtn" class="inline-block" href="javascript:void(0);"  >登录</a>
+					  <a id="loginBtn" class="inline-block" href="javascript:void(0);" >登录</a>
 					
 					</div>
 				</div>

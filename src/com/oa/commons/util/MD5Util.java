@@ -7,9 +7,9 @@ import java.security.MessageDigest;
  * 类名：MD5Util
  * 功能：MD5加密
  * 详细：
- * 作者：LiuJincheng
+ * 作者：WangPeng
  * 版本：1.0
- * 日期：2013-3-28 下午3:16:53
+ * 日期：2016-3-28 下午3:16:53
  *
  */
 public class MD5Util {
